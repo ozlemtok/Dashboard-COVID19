@@ -11,11 +11,8 @@ Coronavirus dataset : involves number of cases and deaths per country on daily b
 * plotly
 * dash
 
-### Visuals of Dashboard
-![Data Table](ss1.png)
-![Number of Cases in United Kingdom](ss2.png)
-![Number of Cases in Turkey](ss3.png)
-![World Map](ss1.png)
+### Visual of Dashboard
+![Dashboard](ss.png)
 
 ### Sources
 1. [EU Open Data Portal - COVID-19 Coronavirus Data ](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
